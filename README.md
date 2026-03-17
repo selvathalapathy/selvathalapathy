@@ -2,7 +2,7 @@
 
 ### Senior DevOps / Platform Engineer — 10+ years | CKA | AZ-400 | GCP (in progress)
 
-> *I build CI/CD systems that scale. Currently migrating enterprise workloads to GKE/EKS at American Express.*
+> *I build CI/CD systems that scale. Currently migrating enterprise workloads to GKE/EKS at Banking Sector.*
 
 ---
 
